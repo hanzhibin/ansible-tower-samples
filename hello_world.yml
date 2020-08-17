@@ -1,5 +1,5 @@
 - name: Hello World Sample
-  hosts: test1
+  hosts: 192.168.122.213
 
   gather_facts: yes
 
